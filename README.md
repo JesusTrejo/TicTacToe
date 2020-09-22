@@ -10,5 +10,5 @@ Auto-resets when there's a winner or a tie.
 ## Technologies used
 WPF, C#, .NET 4.6
 
-# Time required to program
+### Time required to program
 ~1 hour 15 min
